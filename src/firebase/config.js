@@ -5,7 +5,7 @@ import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDWIhaETmUsy0K_Hk2HU362DBTCEmQxfzU",
+  apiKey: "api-key",
   authDomain: "beyondchat-ab46f.firebaseapp.com",
   projectId: "beyondchat-ab46f",
   storageBucket: "beyondchat-ab46f.firebasestorage.app",
