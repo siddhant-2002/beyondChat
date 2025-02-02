@@ -1,0 +1,17 @@
+{
+  "Organization": {
+    "name": "",
+    "website": "",
+    "description": ""
+  },
+  "SetupStep": {
+    "title": "",
+    "description": "",
+    "isCompleted": false
+  },
+  "AuthState": {
+    "isAuthenticated": false,
+    "email": "",
+    "isVerified": false
+  }
+}
